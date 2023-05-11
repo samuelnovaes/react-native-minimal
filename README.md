@@ -1,4 +1,4 @@
-# React native minimal template
+# React native minimal template with navigation
 
 ## Get started
 
